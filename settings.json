@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Petir-Duosmp.aternos.me:25821",
+    "port": 25821,
     "version": "",
     "try-creative": false
   },
